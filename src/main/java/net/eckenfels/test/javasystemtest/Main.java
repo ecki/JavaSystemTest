@@ -3,6 +3,7 @@
  */
 package net.eckenfels.test.javasystemtest;
 
+
 import java.lang.management.ManagementFactory;
 import java.util.HashSet;
 import java.util.Map;
@@ -19,6 +20,7 @@ import javax.management.ObjectName;
 import javax.management.openmbean.CompositeData;
 import javax.management.openmbean.CompositeDataSupport;
 import javax.management.openmbean.TabularDataSupport;
+
 
 public class Main
 {
@@ -52,20 +54,20 @@ public class Main
 
 		System.out.printf("%n--- JMX Beans ---%n%n");
 
-        final Set<MBeanServer> servers = new HashSet<MBeanServer>();
-        servers.add(ManagementFactory.getPlatformMBeanServer());
-        servers.addAll(MBeanServerFactory.findMBeanServer(null));
-        for (final MBeanServer server : servers)
-        {
-        	System.out.printf("Server " + server.toString() +"%n");
-            final Set<ObjectName> mbeans = new HashSet<ObjectName>();
-            mbeans.addAll(server.queryNames(null, null));
-            for (final ObjectName mbean : mbeans)
-            {
-            	String mbeanName = mbean.getCanonicalName();
-            	System.out.printf(" " +  mbeanName + "%n");
+		final Set<MBeanServer> servers = new HashSet<MBeanServer>();
+		servers.add(ManagementFactory.getPlatformMBeanServer());
+		servers.addAll(MBeanServerFactory.findMBeanServer(null));
+		for (final MBeanServer server : servers)
+		{
+			System.out.printf("%nServer " + server.toString() +"%n");
+			final Set<ObjectName> mbeans = new HashSet<ObjectName>();
+			mbeans.addAll(server.queryNames(null, null));
+			for (final ObjectName mbean : mbeans)
+			{
+				String mbeanName = mbean.getCanonicalName();
+				System.out.printf("%n " +  mbeanName + "%n");
 
-            	MBeanAttributeInfo[] attributes;
+				MBeanAttributeInfo[] attributes;
 				try {
 					attributes = server.getMBeanInfo(mbean).getAttributes();
 				} catch (JMException e) {
@@ -77,24 +79,24 @@ public class Main
 				}
 
 				for (final MBeanAttributeInfo attribute : attributes)
-                {
-                	String name = attribute.getName();
+				{
+					String name = attribute.getName();
 
-                    String value = getJMXValue(server,mbean,name);
+					String value = getJMXValue(server,mbean,name);
 
-                    if ("ObjectName".equals(name))
-                    	continue;
+					if ("ObjectName".equals(name))
+						continue;
 
-                	String desc = attribute.getDescription();
-                	if (name.equals(desc))
-                		desc = "";
-                	else
-                		desc =" -- " + desc;
+					String desc = attribute.getDescription();
+					if (name.equals(desc))
+						desc = "";
+					else
+						desc =" -- " + desc;
 
-                    System.out.printf("   " + attribute.getName() + "=" + value + desc + "%n") ;
-                }
-             }
-        }
+					System.out.printf("   " + attribute.getName() + "=" + value + desc + "%n") ;
+				}
+			}
+		}
 	}
 
 
