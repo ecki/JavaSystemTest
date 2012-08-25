@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.eckenfels.test</groupId>
+  <artifactId>javasystemtest</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>JavaSystemTest</name>
+  <description>Test various OS/JVM combinations (System Properties, Environment and JMX)</description>
+  <scm>
+  	<url>git@github.com:ecki/JavaSystemTest.git</url>
+  	<developerConnection>Bernd Eckenfels</developerConnection>
+  	<tag>master</tag>
+  </scm>
+  <issueManagement>
+  	<url>https://github.com/ecki/JavaSystemTest/issues</url>
+  </issueManagement>
+  <organization>
+  	<name>Bernd Eckenfels</name>
+  	<url>https://github.com/ecki</url>
+  </organization>
+  <url>https://github.com/ecki/JavaSystemTest</url>
+</project>
