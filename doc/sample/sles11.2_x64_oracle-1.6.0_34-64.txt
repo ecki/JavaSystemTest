@@ -1,0 +1,303 @@
+--- System Properties ---
+
+java.runtime.name="Java(TM) SE Runtime Environment"
+sun.boot.library.path="/root/jre1.6.0_34/lib/amd64"
+java.vm.version="20.9-b04"
+java.vm.vendor="Sun Microsystems Inc."
+java.vendor.url="http://java.sun.com/"
+path.separator=":"
+java.vm.name="Java HotSpot(TM) 64-Bit Server VM"
+file.encoding.pkg="sun.io"
+sun.java.launcher="SUN_STANDARD"
+user.country="US"
+sun.os.patch.level="unknown"
+java.vm.specification.name="Java Virtual Machine Specification"
+user.dir="/root"
+java.runtime.version="1.6.0_34-b04"
+java.awt.graphicsenv="sun.awt.X11GraphicsEnvironment"
+java.endorsed.dirs="/root/jre1.6.0_34/lib/endorsed"
+os.arch="amd64"
+java.io.tmpdir="/tmp"
+line.separator="
+"
+java.vm.specification.vendor="Sun Microsystems Inc."
+os.name="Linux"
+sun.jnu.encoding="UTF-8"
+java.library.path="/root/jre1.6.0_34/lib/amd64/server:/root/jre1.6.0_34/lib/amd64:/root/jre1.6.0_34/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"
+java.specification.name="Java Platform API Specification"
+java.class.version="50.0"
+sun.management.compiler="HotSpot 64-Bit Tiered Compilers"
+os.version="3.0.13-0.27-ec2"
+user.home="/root"
+user.timezone=""
+java.awt.printerjob="sun.print.PSPrinterJob"
+file.encoding="UTF-8"
+java.specification.version="1.6"
+java.class.path="ecki-JavaSystemTest-979f293/src/main/java/"
+user.name="root"
+java.vm.specification.version="1.0"
+sun.java.command="net.eckenfels.test.javasystemtest.Main"
+java.home="/root/jre1.6.0_34"
+sun.arch.data.model="64"
+user.language="en"
+java.specification.vendor="Sun Microsystems Inc."
+java.vm.info="mixed mode"
+java.version="1.6.0_34"
+java.ext.dirs="/root/jre1.6.0_34/lib/ext:/usr/java/packages/lib/ext"
+sun.boot.class.path="/root/jre1.6.0_34/lib/resources.jar:/root/jre1.6.0_34/lib/rt.jar:/root/jre1.6.0_34/lib/sunrsasign.jar:/root/jre1.6.0_34/lib/jsse.jar:/root/jre1.6.0_34/lib/jce.jar:/root/jre1.6.0_34/lib/charsets.jar:/root/jre1.6.0_34/lib/modules/jdk.boot.jar:/root/jre1.6.0_34/classes"
+java.vendor="Sun Microsystems Inc."
+file.separator="/"
+java.vendor.url.bug="http://java.sun.com/cgi-bin/bugreport.cgi"
+sun.io.unicode.encoding="UnicodeLittle"
+sun.cpu.endian="little"
+sun.cpu.isalist=""
+
+--- Environment ---
+
+TERM="xterm"
+LESSCLOSE="lessclose.sh %s %s"
+ENV="/etc/bash.bashrc"
+HOSTTYPE="x86_64"
+MAIL="/var/mail/root"
+HOSTNAME="ip-10-112-57-223"
+PWD="/root"
+HOST="ip-10-112-57-223"
+XCURSOR_THEME=""
+LS_OPTIONS="-A -N --color=tty -T 0"
+G_BROKEN_FILENAMES="1"
+MACHTYPE="x86_64-suse-linux"
+QT_SYSTEM_DIR="/usr/share/desktop-data"
+NLSPATH="/usr/dt/lib/nls/msg/%L/%N.cat"
+INPUTRC="/etc/inputrc"
+HISTSIZE="1000"
+XKEYSYMDB="/usr/share/X11/XKeysymDB"
+PATH="/sbin:/usr/sbin:/usr/local/sbin:/root/bin:/usr/local/bin:/usr/bin:/bin:/usr/X11R6/bin:/usr/games:/usr/lib/mit/bin:/usr/lib/mit/sbin"
+XDG_CONFIG_DIRS="/etc/xdg"
+XNLSPATH="/usr/X11R6/lib/X11/nls"
+LESS_ADVANCED_PREPROCESSOR="no"
+LESS="-M -I"
+PAGER="less"
+PYTHONSTARTUP="/etc/pythonstart"
+INFOPATH="/usr/local/info:/usr/share/info:/usr/info"
+OSTYPE="linux"
+LESSKEY="/etc/lesskey.bin"
+INFODIR="/usr/local/info:/usr/share/info:/usr/info"
+SHLVL="1"
+XFILESEARCHPATH="/usr/dt/app-defaults/%L/Dt"
+MANPATH="/usr/share/man:/usr/local/man"
+MINICOM="-c on"
+COLORTERM="1"
+CPU="x86_64"
+NNTPSERVER="news"
+XDG_DATA_DIRS="/usr/share"
+SSH_TTY="/dev/pts/0"
+LOGNAME="root"
+PROFILEREAD="true"
+_="jre1.6.0_34/bin/java"
+LD_LIBRARY_PATH="/root/jre1.6.0_34/lib/amd64/server:/root/jre1.6.0_34/lib/amd64:/root/jre1.6.0_34/../lib/amd64"
+OLDPWD="/tmp"
+SHELL="/bin/bash"
+LC_CTYPE="en_US.UTF-8"
+MORE="-sl"
+USER="root"
+HOME="/root"
+LESSOPEN="lessopen.sh %s"
+CSHEDIT="emacs"
+LS_COLORS="no=00:fi=00:di=01;34:ln=00;36:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=41;33;01:ex=00;32:*.cmd=00;32:*.exe=01;32:*.com=01;32:*.bat=01;32:*.btm=01;32:*.dll=01;32:*.tar=00;31:*.tbz=00;31:*.tgz=00;31:*.rpm=00;31:*.deb=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.lzma=00;31:*.zip=00;31:*.zoo=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.tb2=00;31:*.tz2=00;31:*.tbz2=00;31:*.avi=01;35:*.bmp=01;35:*.fli=01;35:*.gif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mng=01;35:*.mov=01;35:*.mpg=01;35:*.pcx=01;35:*.pbm=01;35:*.pgm=01;35:*.png=01;35:*.ppm=01;35:*.tga=01;35:*.tif=01;35:*.xbm=01;35:*.xpm=01;35:*.dl=01;35:*.gl=01;35:*.wmv=01;35:*.aiff=00;32:*.au=00;32:*.mid=00;32:*.mp3=00;32:*.ogg=00;32:*.voc=00;32:*.wav=00;32:"
+FROM_HEADER=""
+LANG="POSIX"
+
+--- JMX Beans ---
+
+
+Server com.sun.jmx.mbeanserver.JmxMBeanServer@72c53dce
+
+ java.lang:type=Memory
+   Verbose=false
+   HeapMemoryUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=10027008, init=10318528, max=160169984, used=818136})
+   NonHeapMemoryUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=24313856, init=24313856, max=136314880, used=5116896})
+   ObjectPendingFinalizationCount=0
+
+ java.lang:name=Copy,type=GarbageCollector
+   LastGcInfo=(null)
+   CollectionCount=0l
+   CollectionTime=0l
+   Name="Copy"
+   Valid=true
+   MemoryPoolNames={"Eden Space","Survivor Space"}
+
+ java.lang:name=Code Cache,type=MemoryPool
+   Name="Code Cache"
+   Type="NON_HEAP"
+   Valid=true
+   CollectionUsage=(null)
+   CollectionUsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: CollectionUsage threshold is not supported
+   CollectionUsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: CollectionUsage threshold is not supported
+   MemoryManagerNames={"CodeCacheManager"}
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=2555904, init=2555904, max=50331648, used=417664})
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=2555904, init=2555904, max=50331648, used=407040})
+   UsageThreshold=0l
+   UsageThresholdCount=0l
+   CollectionUsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: CollectionUsage threshold is not supported
+   CollectionUsageThresholdSupported=false
+   UsageThresholdExceeded=true
+   UsageThresholdSupported=true
+
+ java.lang:type=Runtime
+   Name="19435@ip-10-112-57-223.ec2.internal"
+   ClassPath="ecki-JavaSystemTest-979f293/src/main/java/"
+   BootClassPath="/root/jre1.6.0_34/lib/resources.jar:/root/jre1.6.0_34/lib/rt.jar:/root/jre1.6.0_34/lib/sunrsasign.jar:/root/jre1.6.0_34/lib/jsse.jar:/root/jre1.6.0_34/lib/jce.jar:/root/jre1.6.0_34/lib/charsets.jar:/root/jre1.6.0_34/lib/modules/jdk.boot.jar:/root/jre1.6.0_34/classes"
+   LibraryPath="/root/jre1.6.0_34/lib/amd64/server:/root/jre1.6.0_34/lib/amd64:/root/jre1.6.0_34/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"
+   VmName="Java HotSpot(TM) 64-Bit Server VM"
+   VmVendor="Sun Microsystems Inc."
+   VmVersion="20.9-b04"
+   BootClassPathSupported=true
+   InputArguments={}
+   ManagementSpecVersion="1.2"
+   SpecName="Java Virtual Machine Specification"
+   SpecVendor="Sun Microsystems Inc."
+   SpecVersion="1.0"
+   StartTime=1345944419941l
+   SystemProperties=javax.management.openmbean.TabularDataSupport(tabularType=javax.management.openmbean.TabularType(name=java.util.Map<java.lang.String, java.lang.String>,rowType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),indexNames=(key)),contents={[java.ext.dirs]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.ext.dirs, value=/root/jre1.6.0_34/lib/ext:/usr/java/packages/lib/ext}), [java.vm.specification.vendor]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.specification.vendor, value=Sun Microsystems Inc.}), [user.timezone]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.timezone, value=}), [java.vm.vendor]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.vendor, value=Sun Microsystems Inc.}), [user.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.name, value=root}), [java.vm.specification.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.specification.name, value=Java Virtual Machine Specification}), [user.dir]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.dir, value=/root}), [user.country]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.country, value=US}), [user.language]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.language, value=en}), [java.specification.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.specification.version, value=1.6}), [sun.cpu.endian]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.cpu.endian, value=little}), [java.home]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.home, value=/root/jre1.6.0_34}), [sun.jnu.encoding]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.jnu.encoding, value=UTF-8}), [file.separator]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=file.separator, value=/}), [java.vendor.url]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vendor.url, value=http://java.sun.com/}), [java.awt.graphicsenv]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.awt.graphicsenv, value=sun.awt.X11GraphicsEnvironment}), [os.arch]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=os.arch, value=amd64}), [java.io.tmpdir]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.io.tmpdir, value=/tmp}), [java.runtime.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.runtime.name, value=Java(TM) SE Runtime Environment}), [java.awt.printerjob]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.awt.printerjob, value=sun.print.PSPrinterJob}), [file.encoding]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=file.encoding, value=UTF-8}), [java.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.version, value=1.6.0_34}), [java.vendor.url.bug]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vendor.url.bug, value=http://java.sun.com/cgi-bin/bugreport.cgi}), [java.vm.specification.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.specification.version, value=1.0}), [file.encoding.pkg]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=file.encoding.pkg, value=sun.io}), [sun.java.command]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.java.command, value=net.eckenfels.test.javasystemtest.Main}), [sun.java.launcher]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.java.launcher, value=SUN_STANDARD}), [path.separator]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=path.separator, value=:}), [java.runtime.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.runtime.version, value=1.6.0_34-b04}), [java.class.path]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.class.path, value=ecki-JavaSystemTest-979f293/src/main/java/}), [os.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=os.name, value=Linux}), [line.separator]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=line.separator, value=
+}), [os.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=os.version, value=3.0.13-0.27-ec2}), [sun.arch.data.model]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.arch.data.model, value=64}), [java.class.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.class.version, value=50.0}), [sun.io.unicode.encoding]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.io.unicode.encoding, value=UnicodeLittle}), [java.vendor]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vendor, value=Sun Microsystems Inc.}), [sun.boot.class.path]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.boot.class.path, value=/root/jre1.6.0_34/lib/resources.jar:/root/jre1.6.0_34/lib/rt.jar:/root/jre1.6.0_34/lib/sunrsasign.jar:/root/jre1.6.0_34/lib/jsse.jar:/root/jre1.6.0_34/lib/jce.jar:/root/jre1.6.0_34/lib/charsets.jar:/root/jre1.6.0_34/lib/modules/jdk.boot.jar:/root/jre1.6.0_34/classes}), [java.vm.info]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.info, value=mixed mode}), [java.specification.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.specification.name, value=Java Platform API Specification}), [java.vm.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.name, value=Java HotSpot(TM) 64-Bit Server VM}), [java.vm.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.version, value=20.9-b04}), [sun.boot.library.path]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.boot.library.path, value=/root/jre1.6.0_34/lib/amd64}), [java.endorsed.dirs]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.endorsed.dirs, value=/root/jre1.6.0_34/lib/endorsed}), [sun.os.patch.level]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.os.patch.level, value=unknown}), [sun.cpu.isalist]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.cpu.isalist, value=}), [user.home]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.home, value=/root}), [java.library.path]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.library.path, value=/root/jre1.6.0_34/lib/amd64/server:/root/jre1.6.0_34/lib/amd64:/root/jre1.6.0_34/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib}), [java.specification.vendor]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.specification.vendor, value=Sun Microsystems Inc.}), [sun.management.compiler]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.management.compiler, value=HotSpot 64-Bit Tiered Compilers})})
+   Uptime=174l
+
+ java.lang:type=ClassLoading
+   LoadedClassCount=662
+   UnloadedClassCount=0l
+   TotalLoadedClassCount=662l
+   Verbose=false
+
+ java.lang:type=Threading
+   ThreadAllocatedMemoryEnabled=true
+   ThreadAllocatedMemorySupported=true
+   DaemonThreadCount=3
+   PeakThreadCount=4
+   CurrentThreadCpuTimeSupported=true
+   ObjectMonitorUsageSupported=true
+   SynchronizerUsageSupported=true
+   ThreadContentionMonitoringEnabled=false
+   ThreadContentionMonitoringSupported=true
+   ThreadCpuTimeEnabled=true
+   AllThreadIds={4l,3l,2l,1l}
+   CurrentThreadCpuTime=150000000l
+   CurrentThreadUserTime=120000000l
+   ThreadCount=4
+   TotalStartedThreadCount=4l
+   ThreadCpuTimeSupported=true
+
+ java.util.logging:type=Logging
+   LoggerNames={"javax.management","javax.management.misc","global","javax.management.mbeanserver",""}
+
+ java.lang:type=Compilation
+   Name="HotSpot 64-Bit Tiered Compilers"
+   CompilationTimeMonitoringSupported=true
+   TotalCompilationTime=103l
+
+ java.lang:name=Eden Space,type=MemoryPool
+   Name="Eden Space"
+   Type="HEAP"
+   Valid=true
+   CollectionUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=0, init=2752512, max=44171264, used=0})
+   CollectionUsageThreshold=0l
+   CollectionUsageThresholdCount=0l
+   MemoryManagerNames={"MarkSweepCompact","Copy"}
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=2752512, init=2752512, max=44171264, used=1793080})
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=2752512, init=2752512, max=44171264, used=1848200})
+   UsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: Usage threshold is not supported
+   UsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: Usage threshold is not supported
+   CollectionUsageThresholdExceeded=true
+   CollectionUsageThresholdSupported=true
+   UsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: Usage threshold is not supported
+   UsageThresholdSupported=false
+
+ com.sun.management:type=HotSpotDiagnostic
+   DiagnosticOptions=CompositeData[]{javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=HeapDumpBeforeFullGC, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=HeapDumpAfterFullGC, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=HeapDumpOnOutOfMemoryError, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=HeapDumpPath, origin=DEFAULT, value=, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=CMSAbortablePrecleanWaitMillis, origin=DEFAULT, value=100, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=CMSWaitDuration, origin=DEFAULT, value=2000, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=PrintGC, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=PrintGCDetails, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=PrintGCDateStamps, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=PrintGCTimeStamps, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=PrintClassHistogramBeforeFullGC, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=PrintClassHistogramAfterFullGC, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=PrintClassHistogram, origin=DEFAULT, value=false, writeable=true}),javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=com.sun.management.VMOption,items=((itemName=name,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=origin,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=writeable,itemType=javax.management.openmbean.SimpleType(name=java.lang.Boolean)))),contents={name=PrintConcurrentLocks, origin=DEFAULT, value=false, writeable=true})}
+
+ java.lang:name=MarkSweepCompact,type=GarbageCollector
+   LastGcInfo=(null)
+   CollectionCount=0l
+   CollectionTime=0l
+   Name="MarkSweepCompact"
+   Valid=true
+   MemoryPoolNames={"Eden Space","Survivor Space","Tenured Gen","Perm Gen"}
+
+ java.lang:name=Survivor Space,type=MemoryPool
+   Name="Survivor Space"
+   Type="HEAP"
+   Valid=true
+   CollectionUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=0, init=327680, max=5505024, used=0})
+   CollectionUsageThreshold=0l
+   CollectionUsageThresholdCount=0l
+   MemoryManagerNames={"MarkSweepCompact","Copy"}
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=327680, init=327680, max=5505024, used=0})
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=327680, init=327680, max=5505024, used=0})
+   UsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: Usage threshold is not supported
+   UsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: Usage threshold is not supported
+   CollectionUsageThresholdExceeded=true
+   CollectionUsageThresholdSupported=true
+   UsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: Usage threshold is not supported
+   UsageThresholdSupported=false
+
+ java.lang:type=OperatingSystem
+   MaxFileDescriptorCount=8192l
+   OpenFileDescriptorCount=4l
+   CommittedVirtualMemorySize=354353152l
+   FreePhysicalMemorySize=64290816l
+   FreeSwapSpaceSize=0l
+   ProcessCpuTime=240000000l
+   TotalPhysicalMemorySize=660385792l
+   TotalSwapSpaceSize=0l
+   Name="Linux"
+   AvailableProcessors=1
+   Arch="amd64"
+   SystemLoadAverage=0.06d
+   Version="3.0.13-0.27-ec2"
+
+ java.lang:name=Tenured Gen,type=MemoryPool
+   Name="Tenured Gen"
+   Type="HEAP"
+   Valid=true
+   CollectionUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=0, init=6946816, max=110493696, used=0})
+   CollectionUsageThreshold=0l
+   CollectionUsageThresholdCount=0l
+   MemoryManagerNames={"MarkSweepCompact"}
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=6946816, init=6946816, max=110493696, used=0})
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=6946816, init=6946816, max=110493696, used=0})
+   UsageThreshold=0l
+   UsageThresholdCount=0l
+   CollectionUsageThresholdExceeded=true
+   CollectionUsageThresholdSupported=true
+   UsageThresholdExceeded=true
+   UsageThresholdSupported=true
+
+ java.lang:name=Perm Gen,type=MemoryPool
+   Name="Perm Gen"
+   Type="NON_HEAP"
+   Valid=true
+   CollectionUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=0, init=21757952, max=85983232, used=0})
+   CollectionUsageThreshold=0l
+   CollectionUsageThresholdCount=0l
+   MemoryManagerNames={"MarkSweepCompact"}
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=21757952, init=21757952, max=85983232, used=4972016})
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=21757952, init=21757952, max=85983232, used=4972016})
+   UsageThreshold=0l
+   UsageThresholdCount=0l
+   CollectionUsageThresholdExceeded=true
+   CollectionUsageThresholdSupported=true
+   UsageThresholdExceeded=true
+   UsageThresholdSupported=true
+
+ JMImplementation:type=MBeanServerDelegate
+   MBeanServerId="ip-10-112-57-223.ec2.internal_1345944419979" -- The MBean server agent identification
+   SpecificationName="Java Management Extensions" -- The full name of the JMX specification implemented by this product.
+   SpecificationVersion="1.4" -- The version of the JMX specification implemented by this product.
+   SpecificationVendor="Sun Microsystems" -- The vendor of the JMX specification implemented by this product.
+   ImplementationName="JMX" -- The JMX implementation name (the name of this product)
+   ImplementationVersion="1.6.0_34-b04" -- The JMX implementation version (the version of this product).
+   ImplementationVendor="Sun Microsystems" -- the JMX implementation vendor (the vendor of this product).
+
+ java.lang:name=CodeCacheManager,type=MemoryManager
+   Name="CodeCacheManager"
+   Valid=true
+   MemoryPoolNames={"Code Cache"}
