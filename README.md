@@ -3,7 +3,7 @@ JavaSystemTest
 
 Test various OS/JVM combinations (System Properties, Environment and JMX)
 
-See the [./doc/samples/](doc/sample) directory for a number of generated output files on various operating systems
+See the [doc/samples/](./doc/sample) directory for a number of generated output files on various operating systems
 with different JVM providers and versions.
 
 The code is released under the GNU General Public License 2.0 (GPL).
