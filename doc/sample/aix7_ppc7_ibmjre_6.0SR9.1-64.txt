@@ -1,0 +1,316 @@
+--- System Properties ---
+
+java.assistive="ON"
+java.runtime.name="Java(TM) SE Runtime Environment"
+ibm.signalhandling.rs="false"
+sun.boot.library.path="/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64"
+java.vm.version="2.4"
+com.ibm.oti.configuration="scar"
+java.vm.vendor="IBM Corporation"
+java.vendor.url="http://www.ibm.com/"
+path.separator=":"
+java.vm.name="IBM J9 VM"
+user.country="US"
+sun.java.launcher="SUN_STANDARD"
+user.dir="/tmp/jst/src/main/java"
+java.vm.specification.name="Java Virtual Machine Specification"
+java.runtime.version="pap6460sr9fp1-20110208_03 (SR9 FP1)"
+java.fullversion="JRE 1.6.0 IBM J9 2.4 AIX ppc64-64 jvmap6460sr9-20110203_74623 (JIT enabled, AOT enabled)
+J9VM - 20110203_074623
+JIT  - r9_20101028_17488ifx3
+GC   - 20101027_AA"
+java.awt.graphicsenv="sun.awt.X11GraphicsEnvironment"
+java.endorsed.dirs="/usr/java6_64/jre/lib/endorsed"
+os.arch="ppc64"
+com.ibm.vm.bitmode="64"
+java.io.tmpdir="/tmp/"
+line.separator="
+"
+com.ibm.util.extralibs.properties=""
+java.vm.specification.vendor="Sun Microsystems Inc."
+user.variant=""
+java.awt.fonts=""
+os.name="AIX"
+sun.java2d.fontpath=""
+java.jcl.version="20110203_01"
+sun.jnu.encoding="ISO8859-1"
+java.library.path="/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64/j9vm:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/../lib/ppc64:/usr/lib:/usr/lib"
+jxe.current.romimage.version="15"
+com.ibm.oti.vm.bootstrap.library.path="/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64"
+com.ibm.cpu.endian="big"
+java.specification.name="Java Platform API Specification"
+java.class.version="50.0"
+ibm.system.encoding="ISO8859-1"
+java.util.prefs.PreferencesFactory="java.util.prefs.FileSystemPreferencesFactory"
+os.version="7.1"
+com.ibm.oti.vm.library.version="24"
+com.ibm.jcl.checkClassPath=""
+user.home="/"
+user.timezone=""
+java.awt.printerjob="sun.print.PSPrinterJob"
+file.encoding="ISO8859-1"
+java.specification.version="1.6"
+user.name="root"
+java.class.path="."
+com.ibm.oti.shared.enabled="false"
+java.vm.specification.version="1.0"
+sun.arch.data.model="64"
+sun.java.command="net.eckenfels.test.javasystemtest.Main"
+java.home="/usr/java6_64/jre"
+com.ibm.oti.jcl.build="20110202_1316"
+user.language="en"
+ibm.signalhandling.sigint="true"
+java.specification.vendor="Sun Microsystems Inc."
+os.encoding="ISO8859-1"
+java.vm.info="JRE 1.6.0 IBM J9 2.4 AIX ppc64-64 jvmap6460sr9-20110203_74623 (JIT enabled, AOT enabled)
+J9VM - 20110203_074623
+JIT  - r9_20101028_17488ifx3
+GC   - 20101027_AA"
+java.version="1.6.0"
+java.ext.dirs="/usr/java6_64/jre/lib/ext"
+jxe.lowest.romimage.version="15"
+sun.boot.class.path="/usr/java6_64/jre/lib/ppc64/default/jclSC160/vm.jar:/usr/java6_64/jre/lib/annotation.jar:/usr/java6_64/jre/lib/beans.jar:/usr/java6_64/jre/lib/java.util.jar:/usr/java6_64/jre/lib/jndi.jar:/usr/java6_64/jre/lib/logging.jar:/usr/java6_64/jre/lib/security.jar:/usr/java6_64/jre/lib/sql.jar:/usr/java6_64/jre/lib/ibmorb.jar:/usr/java6_64/jre/lib/ibmorbapi.jar:/usr/java6_64/jre/lib/ibmcfw.jar:/usr/java6_64/jre/lib/rt.jar:/usr/java6_64/jre/lib/charsets.jar:/usr/java6_64/jre/lib/resources.jar:/usr/java6_64/jre/lib/ibmpkcs.jar:/usr/java6_64/jre/lib/ibmcertpathfw.jar:/usr/java6_64/jre/lib/ibmjgssfw.jar:/usr/java6_64/jre/lib/ibmjssefw.jar:/usr/java6_64/jre/lib/ibmsaslfw.jar:/usr/java6_64/jre/lib/ibmjcefw.jar:/usr/java6_64/jre/lib/ibmjgssprovider.jar:/usr/java6_64/jre/lib/ibmjsseprovider2.jar:/usr/java6_64/jre/lib/ibmcertpathprovider.jar:/usr/java6_64/jre/lib/ibmxmlcrypto.jar:/usr/java6_64/jre/lib/management-agent.jar:/usr/java6_64/jre/lib/xml.jar:/usr/java6_64/jre/lib/jlm.jar:/usr/java6_64/jre/lib/javascript.jar"
+java.vendor="IBM Corporation"
+file.separator="/"
+java.compiler="j9jit24"
+sun.io.unicode.encoding="UnicodeBig"
+ibm.signalhandling.sigchain="true"
+
+--- Environment ---
+
+SSH_TTY="/dev/pts/1"
+LOCPATH="/usr/lib/nls/loc"
+TZ="CST6CDT"
+AUTHSTATE="compat"
+LOGIN="root"
+MAILMSG="[YOU HAVE NEW MAIL]"
+LIBPATH="/usr/java6_64/jre/lib/ppc64/j9vm:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/../lib/ppc64:/usr/lib"
+USER="USERNAME"
+SHLVL="1"
+PS1="l488pp017_pub[$PWD] > "
+LC__FASTMSG="true"
+SHELL="/usr/bin/ksh"
+IBM_JVM_NULLPTR_NEW_VALUE="NOSEGV"
+PAM_SERVICE="su"
+ODMDIR="/etc/objrepos"
+IBM_JVM_AIXTHREAD_SCOPE_NEW_VALUE="S"
+IBM_JVM_CORE_MMAP_NEW_VALUE="yes"
+IBM_JAVA_COMMAND_LINE="/usr/java6_64/jre/bin/java -cp . net.eckenfels.test.javasystemtest.Main"
+PWD="/tmp/jst/src/main/java"
+HOME="/home/USERNAME"
+_="/usr/java6_64/jre/bin/java"
+PATH="/usr/bin:/etc:/usr/sbin:/usr/ucb:/usr/bin/X11:/sbin:/usr/java5/jre/bin:/usr/java5/bin"
+NULLPTR="NOSEGV"
+TERM="xterm"
+LANG="en_US"
+LOGNAME="USERNAME"
+AIXTHREAD_SCOPE="S"
+CORE_MMAP="yes"
+CLCMD_PASSTHRU="1"
+OLDPWD="/tmp/jst/src"
+IBM_JVM_CHANGED_ENVVARS_7602254="AIXTHREAD_SCOPE,NULLPTR,CORE_MMAP"
+MAIL="/usr/spool/mail/USERNAME"
+A__z="! LOGNAME"
+
+--- JMX Beans ---
+
+
+Server com.sun.jmx.mbeanserver.JmxMBeanServer@e700e7
+
+ java.lang:type=Compilation
+   Name="j9jit24"
+   TotalCompilationTime=109l
+   CompilationTimeMonitoringSupported=true
+
+ java.lang:name=JIT code cache,type=MemoryPool
+   CollectionUsage=(null)
+   CollectionUsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   CollectionUsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   MemoryManagerNames={"J9 non-heap manager"}
+   Name="JIT code cache"
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=8388608, init=0, max=-1, used=8388608})
+   Type="NON_HEAP"
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=8388608, init=0, max=-1, used=8388608})
+   UsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   UsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   CollectionUsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   CollectionUsageThresholdSupported=false
+   UsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   UsageThresholdSupported=false
+   Valid=true
+   PreCollectionUsage=(null)
+
+ java.lang:type=Memory
+   HeapMemoryUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=4194304, init=4194304, max=536870912, used=1318488})
+   NonHeapMemoryUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=22315156, init=0, max=-1, used=11726844})
+   ObjectPendingFinalizationCount=0
+   Verbose=false
+   MaxHeapSizeLimit=536870912l
+   MaxHeapSize=536870912l
+   MinHeapSize=4194304l
+   SetMaxHeapSizeSupported=true
+   SharedClassCacheSize=0l
+   SharedClassCacheFreeSpace=0l
+   GCMode="-Xgcpolicy:optthruput"
+
+ java.lang:name=MarkSweepCompact,type=GarbageCollector
+   MemoryPoolNames={"Java heap"}
+   Name="MarkSweepCompact"
+   Valid=true
+   CollectionCount=0l
+   CollectionTime=0l
+   LastCollectionStartTime=0l
+   LastCollectionEndTime=0l
+   MemoryUsed=0l
+   TotalMemoryFreed=0l
+   TotalCompacts=0l
+
+ JMImplementation:type=MBeanServerDelegate
+   MBeanServerId="l488pp017_pub_1346109346876" -- The MBean server agent identification
+   SpecificationName="Java Management Extensions" -- The full name of the JMX specification implemented by this product.
+   SpecificationVersion="1.4" -- The version of the JMX specification implemented by this product.
+   SpecificationVendor="Sun Microsystems" -- The vendor of the JMX specification implemented by this product.
+   ImplementationName="JMX" -- The JMX implementation name (the name of this product)
+   ImplementationVersion="pap6460sr9fp1-20110208_03 (SR9 FP1)" -- The JMX implementation version (the version of this product).
+   ImplementationVendor="Sun Microsystems" -- the JMX implementation vendor (the vendor of this product).
+
+ java.lang:type=ClassLoading
+   LoadedClassCount=679
+   TotalLoadedClassCount=679l
+   UnloadedClassCount=0l
+   Verbose=false
+
+ java.lang:name=Java heap,type=MemoryPool
+   CollectionUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=0, init=4194304, max=536870912, used=0})
+   CollectionUsageThreshold=0l
+   CollectionUsageThresholdCount=0l
+   MemoryManagerNames={"MarkSweepCompact"}
+   Name="Java heap"
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=4194304, init=4194304, max=536870912, used=1463136})
+   Type="HEAP"
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=4194304, init=4194304, max=536870912, used=1463312})
+   UsageThreshold=0l
+   UsageThresholdCount=0l
+   CollectionUsageThresholdExceeded=false
+   CollectionUsageThresholdSupported=true
+   UsageThresholdExceeded=true
+   UsageThresholdSupported=true
+   Valid=true
+   PreCollectionUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=0, init=4194304, max=536870912, used=0})
+
+ java.lang:type=OperatingSystem
+   Arch="ppc64"
+   AvailableProcessors=4
+   Name="AIX"
+   SystemLoadAverage=0.173828125d
+   Version="7.1"
+   TotalPhysicalMemory=2147483648l
+   ProcessingCapacity=400
+   ProcessCpuTime=2926080l
+   FreePhysicalMemorySize=10493952l
+   ProcessVirtualMemorySize=-1l
+   ProcessPrivateMemorySize=27782827l
+   ProcessPhysicalMemorySize=-1l
+
+ java.lang:type=Threading
+   AllThreadIds={1l,4l,2l,5l,6l,7l,10l,12l,13l}
+   CurrentThreadCpuTime=195097000l
+   CurrentThreadUserTime=150440000l -- CurrentThreaduserTime
+   DaemonThreadCount=8
+   PeakThreadCount=9
+   ThreadCount=9
+   TotalStartedThreadCount=10l
+   CurrentThreadCpuTimeSupported=true
+   ThreadContentionMonitoringEnabled=false
+   ThreadContentionMonitoringSupported=true
+   ThreadCpuTimeEnabled=true
+   ThreadCpuTimeSupported=true
+   ObjectMonitorUsageSupported=true
+   SynchronizerUsageSupported=true
+
+ java.lang:type=Runtime
+   BootClassPath="/usr/java6_64/jre/lib/ppc64/default/jclSC160/vm.jar:/usr/java6_64/jre/lib/annotation.jar:/usr/java6_64/jre/lib/beans.jar:/usr/java6_64/jre/lib/java.util.jar:/usr/java6_64/jre/lib/jndi.jar:/usr/java6_64/jre/lib/logging.jar:/usr/java6_64/jre/lib/security.jar:/usr/java6_64/jre/lib/sql.jar:/usr/java6_64/jre/lib/ibmorb.jar:/usr/java6_64/jre/lib/ibmorbapi.jar:/usr/java6_64/jre/lib/ibmcfw.jar:/usr/java6_64/jre/lib/rt.jar:/usr/java6_64/jre/lib/charsets.jar:/usr/java6_64/jre/lib/resources.jar:/usr/java6_64/jre/lib/ibmpkcs.jar:/usr/java6_64/jre/lib/ibmcertpathfw.jar:/usr/java6_64/jre/lib/ibmjgssfw.jar:/usr/java6_64/jre/lib/ibmjssefw.jar:/usr/java6_64/jre/lib/ibmsaslfw.jar:/usr/java6_64/jre/lib/ibmjcefw.jar:/usr/java6_64/jre/lib/ibmjgssprovider.jar:/usr/java6_64/jre/lib/ibmjsseprovider2.jar:/usr/java6_64/jre/lib/ibmcertpathprovider.jar:/usr/java6_64/jre/lib/ibmxmlcrypto.jar:/usr/java6_64/jre/lib/management-agent.jar:/usr/java6_64/jre/lib/xml.jar:/usr/java6_64/jre/lib/jlm.jar:/usr/java6_64/jre/lib/javascript.jar"
+   ClassPath="."
+   InputArguments={"-Xjcl:jclscar_24","-Dcom.ibm.oti.vm.bootstrap.library.path=/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64","-Dsun.boot.library.path=/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64","-Djava.library.path=/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64/j9vm:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/../lib/ppc64:/usr/lib:/usr/lib","-Djava.home=/usr/java6_64/jre","-Djava.ext.dirs=/usr/java6_64/jre/lib/ext","-Duser.dir=/tmp/jst/src/main/java","_j2se_j9=1119744","-Djava.runtime.version=pap6460sr9fp1-20110208_03 (SR9 FP1)","-Xdump","-Djava.class.path=.","-Djava.class.path=.","-Dsun.java.command=net.eckenfels.test.javasystemtest.Main","-Dsun.java.launcher=SUN_STANDARD","_port_library","_org.apache.harmony.vmi.portlib"}
+   LibraryPath="/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64/j9vm:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/../lib/ppc64:/usr/lib:/usr/lib"
+   ManagementSpecVersion="1.0"
+   Name="7602254@l488pp017_pub"
+   SpecName="Java Virtual Machine Specification"
+   SpecVendor="Sun Microsystems Inc."
+   SpecVersion="1.0"
+   StartTime=1346109346022l
+   SystemProperties=javax.management.openmbean.TabularDataSupport(tabularType=javax.management.openmbean.TabularType(name=java.util.HashMap,rowType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),indexNames=(key)),contents={[java.vm.specification.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.specification.name, value=Java Virtual Machine Specification}), [sun.java.command]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.java.command, value=net.eckenfels.test.javasystemtest.Main}), [java.specification.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.specification.name, value=Java Platform API Specification}), [user.variant]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.variant, value=}), [com.ibm.cpu.endian]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=com.ibm.cpu.endian, value=big}), [user.dir]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.dir, value=/tmp/jst/src/main/java}), [sun.io.unicode.encoding]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.io.unicode.encoding, value=UnicodeBig}), [line.separator]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=line.separator, value=
+}), [java.compiler]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.compiler, value=j9jit24}), [sun.java2d.fontpath]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.java2d.fontpath, value=}), [java.vm.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.version, value=2.4}), [java.jcl.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.jcl.version, value=20110203_01}), [user.country]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.country, value=US}), [file.separator]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=file.separator, value=/}), [java.runtime.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.runtime.version, value=pap6460sr9fp1-20110208_03 (SR9 FP1)}), [java.ext.dirs]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.ext.dirs, value=/usr/java6_64/jre/lib/ext}), [jxe.current.romimage.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=jxe.current.romimage.version, value=15}), [java.assistive]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.assistive, value=ON}), [file.encoding]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=file.encoding, value=ISO8859-1}), [com.ibm.oti.configuration]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=com.ibm.oti.configuration, value=scar}), [ibm.signalhandling.sigint]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=ibm.signalhandling.sigint, value=true}), [com.ibm.oti.shared.enabled]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=com.ibm.oti.shared.enabled, value=false}), [java.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.version, value=1.6.0}), [java.io.tmpdir]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.io.tmpdir, value=/tmp/}), [java.vm.vendor]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.vendor, value=IBM Corporation}), [java.vendor]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vendor, value=IBM Corporation}), [java.vendor.url]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vendor.url, value=http://www.ibm.com/}), [java.class.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.class.version, value=50.0}), [java.vm.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.name, value=IBM J9 VM}), [jxe.lowest.romimage.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=jxe.lowest.romimage.version, value=15}), [user.language]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.language, value=en}), [java.fullversion]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.fullversion, value=JRE 1.6.0 IBM J9 2.4 AIX ppc64-64 jvmap6460sr9-20110203_74623 (JIT enabled, AOT enabled)
+J9VM - 20110203_074623
+JIT  - r9_20101028_17488ifx3
+GC   - 20101027_AA}), [os.encoding]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=os.encoding, value=ISO8859-1}), [com.ibm.oti.vm.bootstrap.library.path]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=com.ibm.oti.vm.bootstrap.library.path, value=/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64}), [java.vm.specification.vendor]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.specification.vendor, value=Sun Microsystems Inc.}), [java.awt.printerjob]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.awt.printerjob, value=sun.print.PSPrinterJob}), [os.arch]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=os.arch, value=ppc64}), [java.specification.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.specification.version, value=1.6}), [user.home]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.home, value=/}), [com.ibm.oti.jcl.build]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=com.ibm.oti.jcl.build, value=20110202_1316}), [java.class.path]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.class.path, value=.}), [java.home]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.home, value=/usr/java6_64/jre}), [java.runtime.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.runtime.name, value=Java(TM) SE Runtime Environment}), [java.util.prefs.PreferencesFactory]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.util.prefs.PreferencesFactory, value=java.util.prefs.FileSystemPreferencesFactory}), [sun.boot.class.path]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.boot.class.path, value=/usr/java6_64/jre/lib/ppc64/default/jclSC160/vm.jar:/usr/java6_64/jre/lib/annotation.jar:/usr/java6_64/jre/lib/beans.jar:/usr/java6_64/jre/lib/java.util.jar:/usr/java6_64/jre/lib/jndi.jar:/usr/java6_64/jre/lib/logging.jar:/usr/java6_64/jre/lib/security.jar:/usr/java6_64/jre/lib/sql.jar:/usr/java6_64/jre/lib/ibmorb.jar:/usr/java6_64/jre/lib/ibmorbapi.jar:/usr/java6_64/jre/lib/ibmcfw.jar:/usr/java6_64/jre/lib/rt.jar:/usr/java6_64/jre/lib/charsets.jar:/usr/java6_64/jre/lib/resources.jar:/usr/java6_64/jre/lib/ibmpkcs.jar:/usr/java6_64/jre/lib/ibmcertpathfw.jar:/usr/java6_64/jre/lib/ibmjgssfw.jar:/usr/java6_64/jre/lib/ibmjssefw.jar:/usr/java6_64/jre/lib/ibmsaslfw.jar:/usr/java6_64/jre/lib/ibmjcefw.jar:/usr/java6_64/jre/lib/ibmjgssprovider.jar:/usr/java6_64/jre/lib/ibmjsseprovider2.jar:/usr/java6_64/jre/lib/ibmcertpathprovider.jar:/usr/java6_64/jre/lib/ibmxmlcrypto.jar:/usr/java6_64/jre/lib/management-agent.jar:/usr/java6_64/jre/lib/xml.jar:/usr/java6_64/jre/lib/jlm.jar:/usr/java6_64/jre/lib/javascript.jar}), [ibm.system.encoding]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=ibm.system.encoding, value=ISO8859-1}), [java.vm.info]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.info, value=JRE 1.6.0 IBM J9 2.4 AIX ppc64-64 jvmap6460sr9-20110203_74623 (JIT enabled, AOT enabled)
+J9VM - 20110203_074623
+JIT  - r9_20101028_17488ifx3
+GC   - 20101027_AA}), [user.timezone]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.timezone, value=}), [com.ibm.oti.vm.library.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=com.ibm.oti.vm.library.version, value=24}), [com.ibm.vm.bitmode]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=com.ibm.vm.bitmode, value=64}), [java.vm.specification.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.vm.specification.version, value=1.0}), [java.library.path]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.library.path, value=/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64/j9vm:/usr/java6_64/jre/lib/ppc64:/usr/java6_64/jre/../lib/ppc64:/usr/lib:/usr/lib}), [java.awt.graphicsenv]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.awt.graphicsenv, value=sun.awt.X11GraphicsEnvironment}), [java.awt.fonts]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.awt.fonts, value=}), [ibm.signalhandling.rs]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=ibm.signalhandling.rs, value=false}), [com.ibm.util.extralibs.properties]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=com.ibm.util.extralibs.properties, value=}), [sun.java.launcher]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.java.launcher, value=SUN_STANDARD}), [user.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=user.name, value=root}), [os.version]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=os.version, value=7.1}), [sun.jnu.encoding]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.jnu.encoding, value=ISO8859-1}), [sun.boot.library.path]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.boot.library.path, value=/usr/java6_64/jre/lib/ppc64/default:/usr/java6_64/jre/lib/ppc64}), [java.endorsed.dirs]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.endorsed.dirs, value=/usr/java6_64/jre/lib/endorsed}), [os.name]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=os.name, value=AIX}), [com.ibm.jcl.checkClassPath]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=com.ibm.jcl.checkClassPath, value=}), [ibm.signalhandling.sigchain]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=ibm.signalhandling.sigchain, value=true}), [sun.arch.data.model]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=sun.arch.data.model, value=64}), [path.separator]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=path.separator, value=:}), [java.specification.vendor]=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.HashMap,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=java.specification.vendor, value=Sun Microsystems Inc.})})
+   Uptime=1058l
+   VmName="IBM J9 VM"
+   VmVendor="IBM Corporation"
+   VmVersion="2.4"
+   BootClassPathSupported=true
+
+ java.lang:name=class storage,type=MemoryPool
+   CollectionUsage=(null)
+   CollectionUsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   CollectionUsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   MemoryManagerNames={"J9 non-heap manager"}
+   Name="class storage"
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=3753612, init=0, max=-1, used=3384444})
+   Type="NON_HEAP"
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=3753612, init=0, max=-1, used=3384444})
+   UsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   UsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   CollectionUsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   CollectionUsageThresholdSupported=false
+   UsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   UsageThresholdSupported=false
+   Valid=true
+   PreCollectionUsage=(null)
+
+ java.util.logging:type=Logging
+   LoggerNames={"javax.management","global","javax.management.mbeanserver",""}
+
+ java.lang:name=JIT data cache,type=MemoryPool
+   CollectionUsage=(null)
+   CollectionUsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   CollectionUsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   MemoryManagerNames={"J9 non-heap manager"}
+   Name="JIT data cache"
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=8388608, init=0, max=-1, used=98080})
+   Type="NON_HEAP"
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=8388608, init=0, max=-1, used=98080})
+   UsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   UsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   CollectionUsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   CollectionUsageThresholdSupported=false
+   UsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   UsageThresholdSupported=false
+   Valid=true
+   PreCollectionUsage=(null)
+
+ java.lang:name=J9 non-heap manager,type=MemoryManager
+   MemoryPoolNames={"class storage","JIT code cache","JIT data cache","miscellaneous non-heap storage"}
+   Name="J9 non-heap manager"
+   Valid=true
+
+ java.lang:name=miscellaneous non-heap storage,type=MemoryPool
+   CollectionUsage=(null)
+   CollectionUsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   CollectionUsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   MemoryManagerNames={"J9 non-heap manager"}
+   Name="miscellaneous non-heap storage"
+   PeakUsage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=0, init=0, max=-1, used=0})
+   Type="NON_HEAP"
+   Usage=javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.lang.management.MemoryUsage,items=((itemName=committed,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=init,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=max,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)),(itemName=used,itemType=javax.management.openmbean.SimpleType(name=java.lang.Long)))),contents={committed=1915432, init=0, max=-1, used=0})
+   UsageThreshold=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   UsageThresholdCount=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   CollectionUsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support collection usage threshold.
+   CollectionUsageThresholdSupported=false
+   UsageThresholdExceeded=javax.management.RuntimeMBeanException: java.lang.UnsupportedOperationException: VM does not support usage threshold.
+   UsageThresholdSupported=false
+   Valid=true
+   PreCollectionUsage=(null)
