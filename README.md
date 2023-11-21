@@ -13,6 +13,11 @@ The code is released under the GNU General Public License 2.0 (GPL).
     > javac net/eckenfels/test/javasystemtest/Main.java
     > java -cp . net.eckenfels.test.javasystemtest.Main > output.txt
 
+or
+
+    > cd JavaSystemTest
+    > java src/main/java/net/eckenfels/test/javasystemtest/Main > output.txt
+
 # Other Tests
 
 * net.eckenfels.test.javasystemtest.StackDepth - tests maximum stack depth with and without doPriviledged

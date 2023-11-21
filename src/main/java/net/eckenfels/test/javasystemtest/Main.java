@@ -59,13 +59,13 @@ public class Main
 		servers.addAll(MBeanServerFactory.findMBeanServer(null));
 		for (final MBeanServer server : servers)
 		{
-			System.out.printf("%nServer " + server.toString() +"%n");
+			System.out.printf("%nServer %s%n", server.toString());
 			final Set<ObjectName> mbeans = new HashSet<ObjectName>();
 			mbeans.addAll(server.queryNames(null, null));
 			for (final ObjectName mbean : mbeans)
 			{
 				String mbeanName = mbean.getCanonicalName();
-				System.out.printf("%n " +  mbeanName + "%n");
+				System.out.printf("%n %s%n", mbeanName);
 
 				MBeanAttributeInfo[] attributes;
 				try {
@@ -93,7 +93,7 @@ public class Main
 					else
 						desc =" -- " + desc;
 
-					System.out.printf("   " + attribute.getName() + "=" + value + desc + "%n") ;
+					System.out.printf("   %s=%s %s%n", attribute.getName(), value, desc) ;
 				}
 			}
 		}
